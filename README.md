@@ -1,2 +1,2 @@
-# Security Tools
-Useful tools for security analysts.
+# Cybersecurity resources
+Useful resources for security analysts/researchers.
