@@ -1,5 +1,5 @@
-# Cybersecurity resources {under construction}
-Useful resources for security analysts/researchers.
+# Hacker resources {under construction}
+Useful resources for security analysts/researchers/hacker/bountyhunter/weirdos.
 
 ## OS
 - [Kali](https://www.kali.org/)
