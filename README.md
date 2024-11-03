@@ -117,6 +117,8 @@ Platforms and resources dedicated to providing information about cybersecurity t
 - [Vulners](https://vulners.com/)
 - [Snyk](https://security.snyk.io/)
 - [CERT](https://www.kb.cert.org/vuls/)
+- [Github Advisory](https://github.com/advisories/)
+- [OSV](https://osv.dev/)
 
 ## Honeypots
 
@@ -235,6 +237,23 @@ Online platforms that provide hands-on cybersecurity training and practical lear
 - [TryHackMe](https://tryhackme.com/signup?referrer=hoek)
 - [HackTheBox](https://www.hackthebox.com/)
 - [PentesterLab](https://pentesterlab.com/referral/FqeS5DSD3GmA5g)
+- [Blue Team Labs](https://blueteamlabs.online/)
+- [Wargames](https://overthewire.org/wargames/)
+- [CyberDefenders](https://cyberdefenders.org/)
+- [INE](https://ine.com/)
+- [Cybrary](https://www.cybrary.it/)
+- [PortSwigger](https://portswigger.net/web-security)
+- [Vulnhub](https://www.vulnhub.com/)
+- [RootMe](https://www.root-me.org/)
+- [picoCTF](https://picoctf.org/)
+- [HackThisSite](https://www.hackthissite.org/)
+- [TCM](https://academy.tcm-sec.com/)
+- [LetsDefend](https://letsdefend.io/)
+- [Security Blue Team](https://www.securityblue.team/training/)
+- [Vulnmachines](https://www.vulnmachines.com/)
+- [DevSecOps](https://www.practical-devsecops.com/)
+- [Hackspalaining](https://www.hacksplaining.com/lessons)
+- [DarkRelay](https://www.darkrelay.com/)
 
 ## Ransomware Decrypt
 
@@ -272,3 +291,41 @@ Report bugs properly and grab a reward.
 Tools to scan and search vulnerabilities.
 
 - [OpenVAS](https://www.openvas.org/)
+
+## Pentesting tools
+
+All cool tools to do a pentest or hack.
+
+- [Metasploit](https://github.com/rapid7/metasploit-framework)
+
+## Security advice and guidance
+
+Sources to make Internet a safer place
+
+- [The National Cyber Security Centre](https://www.ncsc.gov.uk/section/advice-guidance/all-topics)
+- [Políticas de seguridad para la pyme](https://www.incibe.es/protege-tu-empresa/herramientas/politicas)
+
+## Cybersecurity resources and knowledge base
+
+Everything you should know about security ;)
+
+- [Sans resources](https://www.sans.org/security-resources/)
+- [Cybersecurity guide](https://cybersecurityguide.org/resources/)
+- [US Homeland Security - Cybersecurity Resources](https://www.dhs.gov/science-and-technology/cybersecurity-resources)
+- [NICCS](https://niccs.cisa.gov/cybersecurity-career-resources/additional-resources)
+- [NIST](https://csrc.nist.gov/)
+- [Security Acronyms](https://github.com/cloudsecurelab/security-acronyms)
+
+## Wikis
+
+Security wikis.
+
+- [HackTricks](https://book.hacktricks.xyz/)
+- [RedTeamRecipe](https://redteamrecipe.com/)
+
+## Roadmaps
+
+Tips how to start in cyber
+
+- [Cyber Security Expert](https://roadmap.sh/cyber-security)
+- [Security Certification Roadmap](https://pauljerimy.com/security-certification-roadmap/)
