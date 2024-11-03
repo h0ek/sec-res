@@ -1,5 +1,4 @@
 # Cybersecurity resources {under construction}
-
 Useful resources for security analysts/researchers/hacker/bountyhunter/weirdos.
 
 ## OS
@@ -10,6 +9,9 @@ Links to websites offering operating systems and virtual environments tailored f
 - [Parrot](https://www.parrotsec.org/)
 - [Black Arch](https://blackarch.org/)
 - [Pentoo](https://www.pentoo.ch/)
+- [Komando](https://github.com/mandiant/commando-vm)
+- [Flare-VM](https://cloud.google.com/blog/topics/threat-intelligence/flare-vm-the-windows-malware/)
+- [Sift Workstation](https://www.sans.org/tools/sift-workstation/)
 
 ## Privacy & Security OS
 
@@ -173,6 +175,8 @@ Platforms dedicated to searching for images based on their content rather than t
 
 - [TinEye](https://tineye.com/)
 - [Stolen Camera Finder](https://www.stolencamerafinder.com/)
+- [Bing Image](https://www.bing.com/visualsearch?FORM=ILPVIS)
+- [Yandex Image](https://yandex.com/images/)
 
 ## Website stats and performance
 
@@ -214,6 +218,7 @@ Platforms and tools dedicated to decrypting and cracking password hashes, aiding
 - [CrackStation](https://crackstation.net/)
 - [Hashes](https://hashes.com/en/decrypt/hash)
 - [Online Hash Crack](https://www.onlinehashcrack.com/)
+- [Dehashed](https://dehashed.com/)
 
 ## Decoders
 
@@ -230,7 +235,7 @@ Open-Source Intelligence category comprises platforms and resources dedicated to
 
 - [OSINT Framework](https://osintframework.com/)
 
-## Labs
+## Labs and CTF
 
 Online platforms that provide hands-on cybersecurity training and practical learning environments for aspiring ethical hackers, penetration testers, and security professionals.
 
@@ -254,6 +259,8 @@ Online platforms that provide hands-on cybersecurity training and practical lear
 - [DevSecOps](https://www.practical-devsecops.com/)
 - [Hackspalaining](https://www.hacksplaining.com/lessons)
 - [DarkRelay](https://www.darkrelay.com/)
+- [AttackDefense](https://public.attackdefense.com/)
+- [Flaws](http://flaws.cloud/)
 
 ## Ransomware Decrypt
 
@@ -297,6 +304,14 @@ Tools to scan and search vulnerabilities.
 All cool tools to do a pentest or hack.
 
 - [Metasploit](https://github.com/rapid7/metasploit-framework)
+- [Nmap](https://nmap.org/)
+- [WPScan](https://github.com/wpscanteam/wpscan)
+- [Kali Tools](https://www.kali.org/tools/)
+- [Payload all the things](https://github.com/swisskyrepo/PayloadsAllTheThings)
+- [PentestBook](https://pentestbook.six2dez.com/)
+- [Checklist](https://github.com/netbiosX/Checklists)
+- [Impacket](https://github.com/fortra/impacket)
+- [Wireshark](https://www.wireshark.org/)
 
 ## Security advice and guidance
 
@@ -322,10 +337,57 @@ Security wikis.
 
 - [HackTricks](https://book.hacktricks.xyz/)
 - [RedTeamRecipe](https://redteamrecipe.com/)
+- [Offensive Security](https://cheatsheet.haax.fr/)
+- [ired](https://www.ired.team/)
+- [RedTeam](https://redteam.guide/)
+- [PentestEverything](https://viperone.gitbook.io/pentest-everything)
+- [Application Security](https://appsecwiki.com/#/)
 
 ## Roadmaps
 
 Tips how to start in cyber
 
 - [Cyber Security Expert](https://roadmap.sh/cyber-security)
+
 - [Security Certification Roadmap](https://pauljerimy.com/security-certification-roadmap/)
+
+## Forensic
+
+- [Volatility](https://volatilityfoundation.org/)
+- [Autopsy](https://www.autopsy.com/)
+
+## Reverse Engineering
+
+- [GDB](http://www.gnu.org/software/gdb/download/)
+- [IDA](https://hex-rays.com/ida-free)
+- [Ghidra](https://ghidra-sre.org/)
+- [OllyDbg](http://www.ollydbg.de/)
+- [Radare2](https://www.radare.org/r/)
+
+## Other cool repos
+
+Repositories like this or even better.
+
+- [Android Security](https://github.com/ashishb/android-security-awesome#readme)
+- [Application security](https://github.com/paragonie/awesome-appsec#readme)
+- [CTF](https://github.com/apsdehal/awesome-ctf#readme)
+- [Cybersecurity Blue Team](https://github.com/fabacab/awesome-cybersecurity-blueteam#readme)
+- [DevSecOps](https://github.com/TaptuIT/awesome-devsecops#readme)
+- [Embedded and IoT Security](https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme)
+- [Fuzzing](https://github.com/cpuu/awesome-fuzzing#readme)
+- [GDPR](https://github.com/bakke92/awesome-gdpr#readme)
+- [Hacking - carpedm20](https://github.com/carpedm20/awesome-hacking#readme)
+- [Hacking - Hack with Github](https://github.com/Hack-with-Github/Awesome-Hacking)
+- [Awesome Hacking Resources](https://github.com/vitalysim/Awesome-Hacking-Resources)
+- [Honeypots](https://github.com/paralax/awesome-honeypots#readme)
+- [Industrial Control Systems Security](https://github.com/hslatman/awesome-industrial-control-system-security)
+- [ICS Writeups](https://github.com/neutrinoguy/awesome-ics-writeups)
+- [Incident Response](https://github.com/meirwah/awesome-incident-response#readme)
+- [Lockpicking](https://github.com/fabacab/awesome-lockpicking#readme)
+- [Malware Analysis](https://github.com/rshipp/awesome-malware-analysis#readme)
+- [Pentest](https://github.com/enaqx/awesome-pentest)
+- [Pcap Tools](https://github.com/caesar0301/awesome-pcaptools)
+- [Reversing](https://github.com/tylerha97/awesome-reversing)
+- [Security](https://github.com/sbilly/awesome-security#readme)
+- [Vehicle Security and Car Hacking](https://github.com/jaredthecoder/awesome-vehicle-security#readme)
+- [Web Security](https://github.com/qazbnm456/awesome-web-security#readme)
