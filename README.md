@@ -78,6 +78,7 @@ A variety of platforms dedicated to meticulously analyzing URLs, files, and cryp
 - [Url Scanner](https://checkphishing.com/)
 - [InQuest Labs](https://labs.inquest.net/)
 - [CyberGordon](https://cybergordon.com/)
+- [Yaraify](https://yaraify.abuse.ch/)
 
 ## Threat Intelligence
 
@@ -89,7 +90,8 @@ A diverse range of platforms dedicated to gathering, analyzing, and disseminatin
 - [Threat Miner](https://www.threatminer.org/)
 - [OTX Alien Vault](https://otx.alienvault.com/)
 - [Hunter](https://hunter.how/)
-- [GreyNoise](https://viz.greynoise.io/)
+- [[Grey](https://yaraify.abuse.ch/)Noise](https://viz.greynoise.io/)
+- [HEARTH](https://hearth.thorcollective.com/)
 
 ## Phishing/Spam
 
@@ -168,6 +170,7 @@ Platforms and tools dedicated to analyzing and identifying the technologies and 
 - [Copyscape](https://www.copyscape.com/)
 - [BuiltWith](https://builtwith.com/)
 - [FaviconDatabase](https://wiki.owasp.org/index.php/OWASP_favicon_database)
+- [Favi](https://www.favihash.com/)
 
 ## Reverse Image Search
 
@@ -234,6 +237,7 @@ Platforms and tools dedicated to decoding and converting encoded data into human
 Open-Source Intelligence category comprises platforms and resources dedicated to gathering, analyzing, and utilizing publicly available information for intelligence and investigative purposes.
 
 - [OSINT Framework](https://osintframework.com/)
+- [ReconMap](https://reconmap.org/)
 
 ## Labs and CTF
 
@@ -267,6 +271,12 @@ Online platforms that provide hands-on cybersecurity training and practical lear
 Platforms and tools dedicated to identifying and decrypting ransomware-encrypted files, aiding victims of ransomware attacks in recovering their data.
 
 - [ID Ransomware](https://id-ransomware.malwarehunterteam.com/index.php)
+
+## Ransomware Info
+
+- [RansomLook](https://www.ransomlook.io/)
+- [RansomwareGang](https://github.com/fastfire/deepdarkCTI/blob/main/ransomware_gang.md)
+- [Ransomware Live](https://www.ransomware.live/)
 
 ## Cloud
 
@@ -312,6 +322,7 @@ All cool tools to do a pentest or hack.
 - [Checklist](https://github.com/netbiosX/Checklists)
 - [Impacket](https://github.com/fortra/impacket)
 - [Wireshark](https://www.wireshark.org/)
+- [Amsi Fail](https://amsi.fail/)
 
 ## Security advice and guidance
 
@@ -364,6 +375,27 @@ Tips how to start in cyber
 - [OllyDbg](http://www.ollydbg.de/)
 - [Radare2](https://www.radare.org/r/)
 
+## Attack Maps
+When CISO is visiting SOC, just put it on the wall screens.
+
+-[Digital Attack Map](https://www.digitalattackmap.com/)
+-[Outbreak Threat Map](https://fortiguard.fortinet.com/threat-map)
+-[Live Cyber Threat Map](https://threatmap.checkpoint.com/)
+
+## Privacy
+
+- [Privacy Sexy](https://privacy.sexy/)
+- [Fake Data Generator](https://datafakegenerator.com/)
+- [Fake WhatsApp Messages](https://www.fakewhats.com/)
+
+## Fun
+
+- [CreepyLink](https://creepylink.com/)
+- [GeekTyper](https://geektyper.com/)
+- [HackerTyper](https://hackertyper.net/)
+- [CryptoPrank](https://www.cryptoprank.com/)
+- [Update Faker](https://updatefaker.com/)
+
 ## Other cool repos
 
 Repositories like this or even better.
@@ -378,7 +410,7 @@ Repositories like this or even better.
 - [GDPR](https://github.com/bakke92/awesome-gdpr#readme)
 - [Hacking - carpedm20](https://github.com/carpedm20/awesome-hacking#readme)
 - [Hacking - Hack with Github](https://github.com/Hack-with-Github/Awesome-Hacking)
-- [Awesome Hacking Resources](https://github.com/vitalysim/Awesome-Hacking-Resources)
+- [Awesome Hacking Resources]https://creepylink.com/(https://github.com/vitalysim/Awesome-Hacking-Resources)
 - [Honeypots](https://github.com/paralax/awesome-honeypots#readme)
 - [Industrial Control Systems Security](https://github.com/hslatman/awesome-industrial-control-system-security)
 - [ICS Writeups](https://github.com/neutrinoguy/awesome-ics-writeups)
