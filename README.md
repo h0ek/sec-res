@@ -410,7 +410,7 @@ Repositories like this or even better.
 - [GDPR](https://github.com/bakke92/awesome-gdpr#readme)
 - [Hacking - carpedm20](https://github.com/carpedm20/awesome-hacking#readme)
 - [Hacking - Hack with Github](https://github.com/Hack-with-Github/Awesome-Hacking)
-- [Awesome Hacking Resources]https://creepylink.com/(https://github.com/vitalysim/Awesome-Hacking-Resources)
+- [Awesome Hacking Resources](https://github.com/vitalysim/Awesome-Hacking-Resources)
 - [Honeypots](https://github.com/paralax/awesome-honeypots#readme)
 - [Industrial Control Systems Security](https://github.com/hslatman/awesome-industrial-control-system-security)
 - [ICS Writeups](https://github.com/neutrinoguy/awesome-ics-writeups)
