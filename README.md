@@ -90,7 +90,7 @@ A diverse range of platforms dedicated to gathering, analyzing, and disseminatin
 - [Threat Miner](https://www.threatminer.org/)
 - [OTX Alien Vault](https://otx.alienvault.com/)
 - [Hunter](https://hunter.how/)
-- [[Grey](https://yaraify.abuse.ch/)Noise](https://viz.greynoise.io/)
+- [GreyNoise](https://viz.greynoise.io/)
 - [HEARTH](https://hearth.thorcollective.com/)
 
 ## Phishing/Spam
