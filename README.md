@@ -92,6 +92,7 @@ A diverse range of platforms dedicated to gathering, analyzing, and disseminatin
 - [Hunter](https://hunter.how/)
 - [GreyNoise](https://viz.greynoise.io/)
 - [HEARTH](https://hearth.thorcollective.com/)
+- [ICHI – Internet Cyber Health Index](https://ichi.global/)
 
 ## Phishing/Spam
 
