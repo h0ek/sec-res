@@ -102,6 +102,7 @@ Includes platforms that specialize in detecting and mitigating phishing attacks 
 - [PhishTank](https://www.phishtank.com/)
 - [CheckPhish](https://checkphish.bolster.ai/)
 - [CleanTalk](https://cleantalk.org/blacklists)
+- [InboxShield](https://inbox-checker.appwrite.network/)
 
 ## Leaks/Passwords
 
