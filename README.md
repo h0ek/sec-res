@@ -84,7 +84,7 @@ A collection of tools, lookup services and labs for security analysts, researche
 - [PhishTank](https://www.phishtank.com/) - Check reported phishing URLs and review community verdicts.
 - [CheckPhish](https://checkphish.bolster.ai/) - Scan a suspicious URL for phishing and brand impersonation.
 - [CleanTalk](https://cleantalk.org/blacklists) - Check whether an IP or email address appears in spam reports.
-- [InboxShield](https://inbox-checker.appwrite.network/) - Check email deliverability and sender configuration.
+- [InboxShield](https://inbox.shipbastion.com/) - Check email deliverability and sender configuration.
 
 ## Breach monitoring
 
